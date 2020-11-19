@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# enabling_splash_screen
-=======
 # enabling_splash_screen
 
 A new Flutter application.
